@@ -1,0 +1,10 @@
+Messages:
+  Nothing-Found: '&7Sorry, but you found nothing...'
+  Tokens-Found: '&aYou found %TOKENS% in this chest!'
+  Tokens-Lost: '&cYou lost %TOKENS% in this chest!'
+
+Chests:
+  # 1 - Percentage
+  # 2 - Minimum
+  # 3 - Maximum
+  default: 0.5;1.0;3.0

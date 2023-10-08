@@ -1,0 +1,5 @@
+name: ${project.artifactId}
+version: ${project.version}
+main: me.dreamdevs.tokenextension.TokenExtensionMain
+author: DreamDevs
+icon: PAPER
