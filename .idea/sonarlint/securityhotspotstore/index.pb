@@ -7,3 +7,5 @@ Asrc/main/java/me/dreamdevs/tokenextension/objects/TokenValue.java,a\b\ab72c0cd
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 u
 Esrc/main/java/me/dreamdevs/tokenextension/managers/TokensManager.java,4\f\4f333c26e72f8f0aad84412c98fab2b6d722fb31
+z
+Jsrc/main/java/me/dreamdevs/tokenextension/listeners/ChestOpenListener.java,0\8\08e9a6498589630344b09cf1e2332892ae3f6c52

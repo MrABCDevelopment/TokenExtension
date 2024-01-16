@@ -1,21 +1,27 @@
 
 }
-java:S1104"`Make FOUND_TOKENS_MESSAGE a static final constant or non-public and provide accessors if needed.(²Í¬Ò8›Œóü°1
+java:S1104"`Make FOUND_TOKENS_MESSAGE a static final constant or non-public and provide accessors if needed.(²Í¬Ò8ËûË Ğ1
 ƒ
-java:S1104"aMake NOTHING_FOUND_MESSAGE a static final constant or non-public and provide accessors if needed.(ÒÕúúÿÿÿÿ8›Œóü°1
+java:S1104"aMake NOTHING_FOUND_MESSAGE a static final constant or non-public and provide accessors if needed.(ÒÕúúÿÿÿÿ8ÍûË Ğ1
 
-java:S1104"_Make LOST_TOKENS_MESSAGE a static final constant or non-public and provide accessors if needed.(”ºÆÃøÿÿÿÿ8œŒóü°1
+java:S1104"_Make LOST_TOKENS_MESSAGE a static final constant or non-public and provide accessors if needed.(”ºÆÃøÿÿÿÿ8ÍûË Ğ1
 W
-java:S1444":Make this "public static FOUND_TOKENS_MESSAGE" field final(²Í¬Ò8œŒóü°1
+java:S1444":Make this "public static FOUND_TOKENS_MESSAGE" field final(²Í¬Ò8ÍûË Ğ1
 ]
-java:S1444";Make this "public static NOTHING_FOUND_MESSAGE" field final(ÒÕúúÿÿÿÿ8œŒóü°1
+java:S1444";Make this "public static NOTHING_FOUND_MESSAGE" field final(ÒÕúúÿÿÿÿ8ÍûË Ğ1
 [
-java:S1444"9Make this "public static LOST_TOKENS_MESSAGE" field final(”ºÆÃøÿÿÿÿ8œŒóü°1
+java:S1444"9Make this "public static LOST_TOKENS_MESSAGE" field final(”ºÆÃøÿÿÿÿ8ÍûË Ğ1
 |
-java:S3008"_Rename this field "FOUND_TOKENS_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Í¬Ò8¡Œóü°1
+java:S3008"_Rename this field "FOUND_TOKENS_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Í¬Ò8ÑûË Ğ1
 ‚
-java:S3008"`Rename this field "NOTHING_FOUND_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÕúúÿÿÿÿ8¡Œóü°1
+java:S3008"`Rename this field "NOTHING_FOUND_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÕúúÿÿÿÿ8ÑûË Ğ1
 €
-java:S3008"^Rename this field "LOST_TOKENS_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ºÆÃøÿÿÿÿ8¢Œóü°1
+java:S3008"^Rename this field "LOST_TOKENS_MESSAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ºÆÃøÿÿÿÿ8ÑûË Ğ1
 b
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‘À¸8¤Œóü°1
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‘À¸8ÓûË Ğ1
+S
+java:S2696!"6Make the enclosing method "static" or remove this set.(¨òÃ8ÕûË Ğ1
+S
+java:S2696""6Make the enclosing method "static" or remove this set.(“¼’8ÕûË Ğ1
+S
+java:S2696#"6Make the enclosing method "static" or remove this set.(şĞåÇ8ÖûË Ğ1
